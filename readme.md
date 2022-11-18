@@ -21,12 +21,12 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 ## Technical Architecture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik" width="25" height="25" />
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
 
-## Team Members:
+## TEAM MEMBERS:
 - Roshan S.B 
 - Rohith B
 - Yugendran M
 - Siva Vishva V
 
 
-## PROJECT ID
+## PROJECT ID:
 Project ID : IBM-Project- IBM-Project-4077-1658683444
