@@ -33,5 +33,6 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 Project ID : IBM-Project- IBM-Project-4077-1658683444
 
 ## DEMO VIDEO
-PNT2022TMID26256.mp4
+https://user-images.githubusercontent.com/64250687/201966820-8524898f-b407-4f4a-94e4-c8ba56286de6.mp4
+
 
